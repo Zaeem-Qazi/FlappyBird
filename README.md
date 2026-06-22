@@ -9,6 +9,23 @@ This is a basic arcade-style game where the player controls a bird and tries to 
 
 ---
 
+## 🎮 Gameplay Preview
+
+### Home Screen
+![Home Screen](Screenshots/Homepage.png)
+
+### Gameplay
+![Gameplay](Screenshots/Gameplay.png)
+
+### Game Over
+![Game Over](Screenshots/GameOver.png)
+
+---
+
+## 🎥 Gameplay Video
+
+[Watch Gameplay](https://youtu.be/fcgGwCqMtSs)
+
 ## ⚙️ Features
 - Gravity-based player movement
 - Tap/Click to make the bird jump
